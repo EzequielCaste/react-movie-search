@@ -1,7 +1,7 @@
 {
   "name": "react-movie-search",
   "version": "1.0.0",
-  "description": "https://scrimba.com/p/pZaznUL/cdVKdrtr",
+  "description": "Learning React with scrimba https://scrimba.com/course/greactmovie",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
